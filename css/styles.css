@@ -1,0 +1,18 @@
+.left-nav {
+    display:flex;
+    flex-direction: column;
+    flex-shrink: 1;
+}
+
+.center-nav {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.right-nav {
+    display:flex;
+    flex-direction: column;
+    flex-shrink: 1;
+}
